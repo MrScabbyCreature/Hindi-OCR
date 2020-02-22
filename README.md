@@ -3,6 +3,8 @@
 
 OCR for Hindi characters using CNNs. Includes kernel visualisation, sentence-level segmentation, word-level segmentation, saliency maps.
 
+![](asd.jpg)
+
 Dataset from: http://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset
 
 ## Installing
